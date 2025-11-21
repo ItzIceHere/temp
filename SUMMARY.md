@@ -17,4 +17,5 @@
 * [Identifying Ban Evasion](minecraft/identifying-ban-evasion/README.md)
   * [Forensic Artifacts for Account Linking](minecraft/identifying-ban-evasion/forensic-artifacts-for-account-linking.md)
   * [Hardware and System Identity (HWID)](minecraft/identifying-ban-evasion/hardware-and-system-identity-hwid.md)
+  * [Network and Environment Analysis](minecraft/identifying-ban-evasion/network-and-environment-analysis.md)
   * [Documentation and Policy](minecraft/identifying-ban-evasion/documentation-and-policy.md)
